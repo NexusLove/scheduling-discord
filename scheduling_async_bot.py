@@ -29,10 +29,10 @@ intents.members = True
 client = discord.Client(intents=intents)
 slash = SlashCommand(client, sync_commands=True)
 guild_ids = [
-    687499582459871242,
-    748887953497129052,
-    677353989632950273,
-    816667074353037362,
+    
+613436173951565833
+
+
 ]
 
 short_delete_time = 5
